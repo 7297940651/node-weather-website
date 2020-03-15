@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/app.js"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +17,7 @@
     "node-fetch": "^2.6.0",
     "node-modules": "^1.0.1",
     "np": "^6.1.0",
+    "npm": "^6.13.4",
     "npm-request": "^1.0.0",
     "request": "^2.88.2"
   },
